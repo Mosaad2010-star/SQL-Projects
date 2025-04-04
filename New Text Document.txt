@@ -1,0 +1,22 @@
+Description: Analyze customer churn (the rate at which customers leave a service) using transactional data. 
+
+
+This project simulates a customer retention scenario and involves building a predictive model 
+
+by calculating churn rates and analyzing the factors contributing to customer attrition.
+
+Scenario: Imagine you’re working for a subscription-based service 
+
+(such as a SaaS platform, a streaming service, or a telecom company).
+
+ The goal is to analyze user activity and subscription data to identify patterns that predict churn.
+
+Skills Involved:
+
+Complex SQL queries involving JOIN operations and aggregate functions.
+
+Window functions (ROW_NUMBER, RANK, etc.) for advanced analytics.
+
+Time series analysis for trends over time.
+
+Calculating churn rate and retention rate.
